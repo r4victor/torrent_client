@@ -1,6 +1,6 @@
 ## Overview
 
-This is a command-line client written in pure python without third-party modules and magic.
+This is a command-line BitTorrent client written in pure python without third-party modules and magic.
 
 Package includes:
 
