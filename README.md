@@ -40,3 +40,7 @@ To close the client use command `exit`. In this case all data will be saved corr
 ## Author
 
 Victor Skvortsov
+
+## Why
+
+Optional task for course at my university.
