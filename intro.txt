@@ -1,0 +1,16 @@
+BitTorrent client
+    cli.py - command-line interface entry point
+    modules
+        pwp
+            messages.py - building and parsing Peer Wire Protocol messages
+            connection.py - peer connection
+        client.py – client implementation
+        bencode.py – encoding and decoding bencode
+        tracker.py – tracker connection
+        files.py – handling torrent files
+    tests
+        bencode_tests.py
+        messages_tests.py
+        tracker_test.py
+    torrents - default folder for torrents
+    downloads - default folder for downloads
